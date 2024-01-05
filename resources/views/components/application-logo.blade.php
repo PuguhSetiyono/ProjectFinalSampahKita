@@ -1,0 +1,1 @@
+<span class="text-green-900 text-5xl font-bold whitespace-nowrap">Sampah Kita</span>
